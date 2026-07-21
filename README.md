@@ -49,3 +49,7 @@ sudo ./adhyper-linux.sh --lang=en    # force English UI
 ## Disclaimer
 
 Use at your own risk. Read the dry-run output before applying. `mitigations=off` disables CPU vulnerability mitigations — only for machines without sensitive data.
+
+## License, security & commercial use
+
+This repository is source-available under the non-commercial [LICENSE](LICENSE). Personal and other non-commercial use is allowed; commercial use, redistribution in paid offerings, and enterprise deployment require a separate written agreement. See [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md). Report security vulnerabilities privately under [SECURITY.md](SECURITY.md), not through public issues.
